@@ -1,4 +1,4 @@
-def my_func(number:int, number_2: int) -> int:
+def my_func(number: int, number_2: int) -> int:
     return number * number_2
 
 
