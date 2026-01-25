@@ -1,1 +1,6 @@
+# Ignoruj ustawienia IDE
 .idea/
+
+# Ignoruj pliki tymczasowe Pythona (skompilowane pliki)
+__pycache__/
+*.pyc
